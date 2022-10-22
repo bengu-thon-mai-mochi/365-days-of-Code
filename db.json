@@ -1,0 +1,40 @@
+{
+    "days": [
+      {
+        "id": 1,
+        "note": "Started fullstackopen challenge ",
+        "content": [
+            "Read control flows section from https://eloquentjavascript.net/02_program_structure.html",
+            "Database design lectures for the first week of the university",
+            "Introduction to programming and algorithm lectures for the first and second week of the university",
+            "Mathematics for programmers lectures for the first and second week of the university",
+            "Fullstackopen challenge and finished part 0 & part 1 exercises on https://fullstackopen.com/"
+        ],
+        "day": "Thu",
+        "date": "2022-10-20"
+      },
+      {
+        "id": 2,
+        "note": "Realised I got really super rusty with CSS so started doing front-end-mentor challenges too.",
+        "content": [
+            "Exercises of https://eloquentjavascript.net/02_program_structure.html",
+            "Mathematics for Programmers lecture for the third week of the university",
+            "Algorithm lecture for the third week of the university : control flow",
+            "Fullstackopen challenge and finished part 2- a and b exercises on https://fullstackopen.com/",
+            "FEM challenge https://github.com/bengu-thon-mai-mochi/FEM-challenges"
+        ],
+        "day": "Fri",
+        "date": "2022-10-21"
+      },
+      {
+        "id": 3,
+        "note": "Some struggles with writing JSON file but all turned good.",
+        "content": [
+            "Fullstackopen challenge and finished part 2-c exercises on https://fullstackopen.com/",
+            "Set up 365 days of code page"
+        ],
+        "day": "Sat",
+        "date": "2022-10-22"
+      }
+    ]
+  }
