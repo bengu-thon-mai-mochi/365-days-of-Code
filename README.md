@@ -1,6 +1,10 @@
-# Getting Started with Create React App
+# 365 days of Code
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+is a motivational project to keep and study coding everyday.
+
+Thank you for inspiration @gizemnkorkmaz.
+
+Check out their project for 2021 [https://github.com/gizemnkorkmaz/365DaysofCode2021](https://github.com/gizemnkorkmaz/365DaysofCode2021)
 
 ## Available Scripts
 
