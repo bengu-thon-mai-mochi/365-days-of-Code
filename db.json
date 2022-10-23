@@ -30,11 +30,26 @@
         "id": 3,
         "note": "Some struggles with writing JSON file but all turned good.",
         "content": [
-            "Fullstackopen challenge and finished part 2-c exercises on https://fullstackopen.com/",
-            "Set up 365 days of code page"
+            "Fullstackopen challenge: finished part 2-c exercises on https://fullstackopen.com/",
+            "Set up 365 days of code page",
+            "Exercises of https://eloquentjavascript.net/03_functions.html",
+            "ODIN Project - foundations - HTML",
+            "Started FEM challenge- 'Product preview card component'"
         ],
         "day": "Sat",
         "date": "2022-10-22"
+      },
+      {
+        "id": 4,
+        "note": "University class gives examples in Visual Basic and C#. It interesting to read. Need to familiarize myself more with flow diagram depictions of algos.",
+        "content": [
+            "Algorithm lecture for the fourth week of the university : loops",
+            "Exercism: Annalyn's Infiltration to recap booleans",
+            "Fullstackopen challenge: finished part 2-d exercises on https://fullstackopen.com/",
+            "Read through promises from YDKJS https://github.com/getify/You-Dont-Know-JS/blob/1st-ed/async%20%26%20performance/ch3.md"
+        ],
+        "day": "Sun",
+        "date": "2022-10-23"
       }
     ]
   }
