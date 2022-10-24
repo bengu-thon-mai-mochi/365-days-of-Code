@@ -4,7 +4,7 @@ function ListItem({ content }) {
         <h1>Day: {content.id}</h1>
         <p> {content.day} -  {content.date}</p>
         {
-            content.content.map(el => <li key="content.id"> { el }</li>)
+            content.content.map(el => <li key={el}> { el }</li>)
         }
         {content.note.length > 0 
             ? <p><b>Note:</b> {content.note}</p> 
