@@ -55,7 +55,8 @@
         "id": 5,
         "note": "Need to migrate this app to Next.js for serverless-api functions",
         "content": [
-            "Fullstackopen challenge: finished part 2-e, 3-a, 3-b exercises on https://fullstackopen.com/"
+            "Fullstackopen challenge: finished part 2-e, 3-a, 3-b exercises on https://fullstackopen.com/",
+            "Migrate to next.js and refactor code accordingly"
         ],
         "day": "Mon",
         "date": "2022-10-24"
