@@ -60,6 +60,29 @@
         ],
         "day": "Mon",
         "date": "2022-10-24"
+      },
+      {
+        "id": 6,
+        "note": "",
+        "content": [
+            "Fullstackopen challenge - struggling a bit with fly.io deploy: 3-b exercises on https://fullstackopen.com/",
+            "Studied box-model in CSS: nice video here https://www.youtube.com/watch?v=rIO5326FgPE ",
+            "Detailed box-model guide here: https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/The_box_model",
+            "Resetting trick with components for box-model https://css-tricks.com/inheriting-box-sizing-probably-slightly-better-best-practice/",
+            "A lot of readings on flexbox, particulary on MDN."
+        ],
+        "day": "Tue",
+        "date": "2022-10-25"
+      },
+      {
+        "id": 7,
+        "note": "",
+        "content": [
+            "First 6 chapters of Javascript Design Patterns by Addy Osmani",
+            "Second lecture of Designing Databases class for the university"
+        ],
+        "day": "Wed",
+        "date": "2022-10-26"
       }
     ]
   }
