@@ -83,6 +83,16 @@
         ],
         "day": "Wed",
         "date": "2022-10-26"
+      },
+      {
+        "id": 8,
+        "note": "Practising MongoDB, wanted to refresh my knowledge on the server-side.",
+        "content": [
+            "MDN is cool https://developer.mozilla.org/en-US/docs/Learn/Server-side/First_steps ",
+            "Learning and practising mongoDB and mongoose through FullstackOpen exercises in the 3-c part"
+        ],
+        "day": "Thu",
+        "date": "2022-10-27"
       }
     ]
   }
